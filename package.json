@@ -1,0 +1,23 @@
+{
+  "name": "hw4",
+  "version": "1.0.0",
+  "description": "CST 336 Homework 4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcfleischli/hw4.git"
+  },
+  "author": "John F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcfleischli/hw4/issues"
+  },
+  "homepage": "https://github.com/jcfleischli/hw4#readme",
+  "dependencies": {
+    "ejs": "^2.7.2",
+    "express": "^4.17.1"
+  }
+}
