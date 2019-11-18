@@ -70,3 +70,7 @@ footer a {
 strong {
  font-weight:900;
 }
+
+#fakerPhrase {
+    font-size: smaller;
+}
